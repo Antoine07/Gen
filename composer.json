@@ -11,7 +11,8 @@
         "mockery/mockery": "0.9.*",
         "behat/behat": "~2.5",
         "phpunit/phpunit": "~4.0",
-        "satooshi/php-coveralls": "dev-master"
+        "satooshi/php-coveralls": "dev-master",
+        "mageekguy/atoum": "@dev"
     },
     "license": "MIT",
     "authors": [
