@@ -3,7 +3,7 @@
     "description": "generator migration laravel5",
     "type": "laravel5",
     "require": {
-        "php": ">=5.5.0",
+        "php": ">=5.6.0",
         "laravel/framework": "5.2.*",
         "orchestra/database": "3.2.*"
     },
